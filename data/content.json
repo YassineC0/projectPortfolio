@@ -1,0 +1,84 @@
+{
+  "images": {
+    "hero-image": "/nigga.png",
+    "intro-image": "/nigga1.jpeg",
+    "testimonial-1": "/damien.jpg",
+    "testimonial-2": "/kevin.jpg",
+    "testimonial-3": "/barbara.webp",
+    "testimonial-4": "/nigga.png",
+    "testimonial-5": "/trump.webp",
+    "testimonial-6": "/yeats.jpg"
+  },
+  "testimonials": [
+    {
+      "id": 1,
+      "name": "Ethan Miller",
+      "role": "Product Designer",
+      "image": "/damien.jpg",
+      "rating": 5,
+      "text": "I've been using LegalAdvice for a year now and it's made managing my legal matters so much easier."
+    },
+    {
+      "id": 2,
+      "name": "Emily Johnson",
+      "role": "Startup Founder",
+      "image": "/kevin.jpg",
+      "rating": 5,
+      "text": "Thanks to LegalAdvice, I feel more confident about my business decisions than ever before."
+    },
+    {
+      "id": 3,
+      "name": "Olivia Carter",
+      "role": "Small Business Owner",
+      "image": "/barbara.webp",
+      "rating": 5,
+      "text": "The legal team at LegalAdvice went above and beyond to help me resolve a complex issue."
+    },
+    {
+      "id": 4,
+      "name": "Wyatt Turner",
+      "role": "CEO",
+      "image": "/nigga.png",
+      "rating": 5,
+      "text": "LegalAdvice is simply the best legal service in the market that anyone can ask for."
+    },
+    {
+      "id": 5,
+      "name": "Sophie Lee",
+      "role": "Freelance Consultant",
+      "image": "/trump.webp",
+      "rating": 5,
+      "text": "The expertise and professionalism of LegalAdvice have been invaluable for my consulting business."
+    },
+    {
+      "id": 6,
+      "name": "Marcus Rodriguez",
+      "role": "Tech Entrepreneur",
+      "image": "/yeats.jpg",
+      "rating": 5,
+      "text": "LegalAdvice provided crucial guidance during our startup's funding rounds. Highly recommended!"
+    }
+  ],
+  "experiences": [
+    {
+      "icon": {},
+      "title": "Corporate LawAA",
+      "description": "With over 15 years of experience in corporate law, we've successfully handled mergers, acquisitions, and complex business transactions for Fortune 500 companies."
+    },
+    {
+      "icon": {},
+      "title": "Intellectual Property",
+      "description": "Our team has secured and defended hundreds of patents, trademarks, and copyrights, protecting our clients' innovative ideas and creative works."
+    },
+    {
+      "icon": {},
+      "title": "Litigation",
+      "description": "We've represented clients in high-stakes litigation cases, achieving favorable outcomes in state and federal courts, including arguments before the Supreme Court."
+    },
+    {
+      "icon": {},
+      "title": "Regulatory Compliance",
+      "description": "Our expertise in navigating complex regulatory landscapes has helped numerous businesses ensure compliance and avoid costly legal issues."
+    }
+  ]
+}
