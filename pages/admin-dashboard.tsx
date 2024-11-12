@@ -259,6 +259,7 @@ export default function AdminDashboard() {
       alert(`Failed to save content: ${error.message}`);
     }
   };
+  
 
   const fetchUpdatedContent = async () => {
     try {
